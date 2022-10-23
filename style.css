@@ -1,0 +1,139 @@
+.text{
+  font-weight: bold;
+  margin-left: 50px;
+  font-size: 30px;
+  height: 60px;
+  position: relative;
+  bottom: 45px;
+  font-family: 'Mulish';
+  color: #462E6A;
+}
+
+.logo_s{
+	position: absolute;
+	left: 15px;
+	top: 15px;
+}
+
+.logo_up{
+	position: absolute;
+	left: 25px;
+	top: 15px
+}
+
+.logo_down{
+	position: absolute;
+	left: 15px;
+	top: 33px;
+}
+
+.logo_up_1{
+	position: absolute;
+	left: 10px;
+	top: 15px;
+}
+
+a{
+  text-decoration: none;
+  font-family: 'Mulish';
+  font-size: 14px;
+  text-align: center;
+}
+
+.about{
+	position: absolute;
+	left: 1400px;
+	top: 20px;
+	font-family: 'Mulish';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 23px;
+	color: #1F1534;
+	opacity: 0.5;
+}
+
+.testimonials{
+	position: absolute;
+	left: 1280px;
+	top: 20px;
+	font-family: 'Mulish';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 23px;
+	color: #1F1534;
+	opacity: 0.5;	
+}
+
+.apps{
+	position: absolute;
+	left: 1210px;
+	top: 20px;
+	font-family: 'Mulish';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 23px;
+	color: #1F1534;
+	opacity: 0.5;	
+}
+
+.find-a-doctor{
+	position: absolute;
+	left: 1080px;
+	top: 20px;
+	font-family: 'Mulish';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 23px;
+	color: #1F1534;
+	opacity: 0.5;		
+}
+
+.home{
+	position: absolute;
+	left: 1000px;
+	top: 20px;
+	font-family: 'Mulish';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 23px;
+	color: #1F1534;
+	opacity: 0.5;		
+}
+
+.computer-doc{
+	margin-left: 720px;
+	margin-top: 150px;
+}
+
+.text1{
+	font-family: 'Mulish';
+	position: absolute;
+	bottom: 400px;
+	left: 100px;
+	color: #3C567B;
+	font-size: 48px;
+}
+
+.text1_1{
+	font-family: 'Mulish';
+	position: absolute;
+	color: #93C1F9;
+	left: 100px;
+	font-size: 19px;
+	bottom: 300px;
+}
+
+.footer-bg {
+  position: absolute;
+	width: 1650px;
+	height: 416px;
+	left: -32px;
+	top: 5471px;
+
+	background: linear-gradient(183.41deg, #6888C8 -8.57%, #5A98F2 82.96%);
+}
